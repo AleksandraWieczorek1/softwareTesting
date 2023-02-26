@@ -9,7 +9,6 @@ On this page, I want to share my experience in learning software testing.
 
 - Postman - testing tool for REST API
 - Jira - issue tracking and project management tool
-- Confluence - creating documentation tool
 - Cypress - testing frontend applications tool
 
 ## Tech skills
